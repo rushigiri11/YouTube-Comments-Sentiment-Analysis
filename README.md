@@ -95,13 +95,10 @@ This project is a GUI application built with Python's `tkinter` that performs se
 ### Bar Chart
 ![Bar Chart](bargraph.png)
 
-## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+## Thank You 😎
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 
 
