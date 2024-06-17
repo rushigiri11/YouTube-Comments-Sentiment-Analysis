@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 # Define your YouTube API key
-api_key = "AIzaSyDBnMcES66SjJDBHfc6ZcDN42EcfjL_6EE"
+api_key = "Enter_Your_API_KEY"
 
 # Load the list of profanity words from an external file
 with open(r"C:\Users\Vaibhav\OneDrive\Desktop\Rushi\YOUTUBE_ANALYSIS\profanity_words.txt", "r") as file:
