@@ -14,7 +14,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 api_key = "Enter_Your_API_KEY"
 
 # Load the list of profanity words from an external file
-with open(r"C:\Users\Vaibhav\OneDrive\Desktop\Rushi\YOUTUBE_ANALYSIS\profanity_words.txt", "r") as file:
+with open(r"profanity_words.txt", "r") as file:
     profanity_words = [word.strip() for word in file.readlines()]
 
 # Function to retrieve video comments from a YouTube video
