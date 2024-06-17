@@ -84,3 +84,24 @@ This project is a GUI application built with Python's `tkinter` that performs se
 - `is_profane(comment)`: Checks if a comment contains any words from the profanity list.
 
 
+## Screenshots
+
+### Application Interface
+![Application Interface](page1.png)
+
+### Pie Chart
+![Pie Chart](piechart.png)
+
+### Bar Chart
+![Bar Chart](bargraph.png)
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
+
